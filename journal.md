@@ -11,3 +11,6 @@ I decided to move to a STM32F405RGT6 for better performance and better firmware 
 I decided to move back to the Rp2350 due to community support for the chips and better documentations.
 ### 16:21
 I finished designing the first verion of the schematic and made a basic pcb with all the multiplexers having thier buttons grouped with them.
+## Jul 10
+### 10:00
+I refactored the repository so that everything is organised nicely and in its own folder.
