@@ -7,3 +7,7 @@ Decided to swap to hall effect for more wide support and custom actuation points
 ## Jul 9
 ### 11:20
 I decided to move to a STM32F405RGT6 for better performance and better firmware compatibility.
+### 11:40
+I decided to move back to the Rp2350 due to community support for the chips and better documentations.
+### 16:21
+I finished designing the first verion of the schematic and made a basic pcb with all the multiplexers having thier buttons grouped with them.
