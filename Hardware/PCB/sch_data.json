@@ -1,0 +1,1923 @@
+[
+    {
+        "sheet_name": "Main Sheet",
+        "sheet_path": "/home/fventer/Documents/Code/VNTR-65/Hardware/PCB/VNTR-65.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "C9",
+                "x_position": 189.23,
+                "y_position": 21.59,
+                "rotation": 0
+            },
+            {
+                "reference": "R4",
+                "x_position": 52.07,
+                "y_position": 52.07,
+                "rotation": 90
+            },
+            {
+                "reference": "R9",
+                "x_position": 173.99,
+                "y_position": 133.35,
+                "rotation": 90
+            },
+            {
+                "reference": "C10",
+                "x_position": 182.88,
+                "y_position": 21.59,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR021",
+                "x_position": 55.88,
+                "y_position": 52.07,
+                "rotation": 90
+            },
+            {
+                "reference": "SW3",
+                "x_position": 297.18,
+                "y_position": 59.69,
+                "rotation": 0
+            },
+            {
+                "reference": "R3",
+                "x_position": 52.07,
+                "y_position": 49.53,
+                "rotation": 90
+            },
+            {
+                "reference": "C5",
+                "x_position": 265.43,
+                "y_position": 33.02,
+                "rotation": 0
+            },
+            {
+                "reference": "R10",
+                "x_position": 179.07,
+                "y_position": 140.97,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR0180",
+                "x_position": 273.05,
+                "y_position": 67.31,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0184",
+                "x_position": 187.96,
+                "y_position": 149.86,
+                "rotation": 0
+            },
+            {
+                "reference": "C1",
+                "x_position": 67.31,
+                "y_position": 48.26,
+                "rotation": 0
+            },
+            {
+                "reference": "C13",
+                "x_position": 167.64,
+                "y_position": 21.59,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR02",
+                "x_position": 72.39,
+                "y_position": 109.22,
+                "rotation": 0
+            },
+            {
+                "reference": "U1",
+                "x_position": 232.41,
+                "y_position": 92.71,
+                "rotation": 0
+            },
+            {
+                "reference": "L1",
+                "x_position": 185.42,
+                "y_position": 46.99,
+                "rotation": 0
+            },
+            {
+                "reference": "R1",
+                "x_position": 109.22,
+                "y_position": 107.95,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR023",
+                "x_position": 177.8,
+                "y_position": 41.91,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR015",
+                "x_position": 201.93,
+                "y_position": 41.91,
+                "rotation": 0
+            },
+            {
+                "reference": "J2",
+                "x_position": 33.02,
+                "y_position": 69.85,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR013",
+                "x_position": 162.56,
+                "y_position": 29.21,
+                "rotation": 0
+            },
+            {
+                "reference": "C16",
+                "x_position": 163.83,
+                "y_position": 149.86,
+                "rotation": 0
+            },
+            {
+                "reference": "R15",
+                "x_position": 273.05,
+                "y_position": 53.34,
+                "rotation": 180
+            },
+            {
+                "reference": "C4",
+                "x_position": 274.32,
+                "y_position": 33.02,
+                "rotation": 0
+            },
+            {
+                "reference": "R8",
+                "x_position": 167.64,
+                "y_position": 137.16,
+                "rotation": 0
+            },
+            {
+                "reference": "U3",
+                "x_position": 148.59,
+                "y_position": 125.73,
+                "rotation": 180
+            },
+            {
+                "reference": "R2",
+                "x_position": 279.4,
+                "y_position": 57.15,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR020",
+                "x_position": 175.26,
+                "y_position": 151.13,
+                "rotation": 0
+            },
+            {
+                "reference": "U78",
+                "x_position": 276.86,
+                "y_position": 95.25,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR05",
+                "x_position": 67.31,
+                "y_position": 52.07,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR01",
+                "x_position": 93.98,
+                "y_position": 104.14,
+                "rotation": 270
+            },
+            {
+                "reference": "U4",
+                "x_position": 153.67,
+                "y_position": 57.15,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0188",
+                "x_position": 273.05,
+                "y_position": 49.53,
+                "rotation": 0
+            },
+            {
+                "reference": "C24",
+                "x_position": 275.59,
+                "y_position": 60.96,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR0181",
+                "x_position": 269.24,
+                "y_position": 69.85,
+                "rotation": 0
+            },
+            {
+                "reference": "R5",
+                "x_position": 191.77,
+                "y_position": 34.29,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR017",
+                "x_position": 163.83,
+                "y_position": 153.67,
+                "rotation": 0
+            },
+            {
+                "reference": "R11",
+                "x_position": 190.5,
+                "y_position": 135.89,
+                "rotation": 90
+            },
+            {
+                "reference": "C18",
+                "x_position": 80.01,
+                "y_position": 107.95,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR012",
+                "x_position": 274.32,
+                "y_position": 36.83,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR022",
+                "x_position": 153.67,
+                "y_position": 50.8,
+                "rotation": 0
+            },
+            {
+                "reference": "R18",
+                "x_position": 269.24,
+                "y_position": 55.88,
+                "rotation": 180
+            },
+            {
+                "reference": "C25",
+                "x_position": 199.39,
+                "y_position": 149.86,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR024",
+                "x_position": 167.64,
+                "y_position": 34.29,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR03",
+                "x_position": 33.02,
+                "y_position": 110.49,
+                "rotation": 0
+            },
+            {
+                "reference": "C15",
+                "x_position": 201.93,
+                "y_position": 38.1,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0185",
+                "x_position": 264.16,
+                "y_position": 85.09,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0182",
+                "x_position": 187.96,
+                "y_position": 142.24,
+                "rotation": 0
+            },
+            {
+                "reference": "C19",
+                "x_position": 177.8,
+                "y_position": 48.26,
+                "rotation": 0
+            },
+            {
+                "reference": "R13",
+                "x_position": 279.4,
+                "y_position": 59.69,
+                "rotation": 90
+            },
+            {
+                "reference": "C20",
+                "x_position": 167.64,
+                "y_position": 50.8,
+                "rotation": 0
+            },
+            {
+                "reference": "R6",
+                "x_position": 195.58,
+                "y_position": 146.05,
+                "rotation": 90
+            },
+            {
+                "reference": "RV1",
+                "x_position": 187.96,
+                "y_position": 146.05,
+                "rotation": 0
+            },
+            {
+                "reference": "C3",
+                "x_position": 256.54,
+                "y_position": 33.02,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR018",
+                "x_position": 148.59,
+                "y_position": 153.67,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR016",
+                "x_position": 148.59,
+                "y_position": 113.03,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR0183",
+                "x_position": 199.39,
+                "y_position": 153.67,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR011",
+                "x_position": 245.11,
+                "y_position": 26.67,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR06",
+                "x_position": 54.61,
+                "y_position": 44.45,
+                "rotation": 0
+            },
+            {
+                "reference": "C17",
+                "x_position": 80.01,
+                "y_position": 100.33,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR0173",
+                "x_position": 198.12,
+                "y_position": 64.77,
+                "rotation": 0
+            },
+            {
+                "reference": "C2",
+                "x_position": 96.52,
+                "y_position": 48.26,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR09",
+                "x_position": 96.52,
+                "y_position": 52.07,
+                "rotation": 0
+            },
+            {
+                "reference": "U2",
+                "x_position": 83.82,
+                "y_position": 44.45,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0186",
+                "x_position": 265.43,
+                "y_position": 105.41,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR08",
+                "x_position": 96.52,
+                "y_position": 44.45,
+                "rotation": 0
+            },
+            {
+                "reference": "C7",
+                "x_position": 204.47,
+                "y_position": 21.59,
+                "rotation": 0
+            },
+            {
+                "reference": "R16",
+                "x_position": 264.16,
+                "y_position": 88.9,
+                "rotation": 0
+            },
+            {
+                "reference": "R17",
+                "x_position": 265.3575,
+                "y_position": 101.6,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR07",
+                "x_position": 83.82,
+                "y_position": 53.34,
+                "rotation": 0
+            },
+            {
+                "reference": "SW2",
+                "x_position": 198.12,
+                "y_position": 59.69,
+                "rotation": 90
+            },
+            {
+                "reference": "C22",
+                "x_position": 269.24,
+                "y_position": 66.04,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR014",
+                "x_position": 224.79,
+                "y_position": 12.7,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0172",
+                "x_position": 153.67,
+                "y_position": 64.77,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0179",
+                "x_position": 275.59,
+                "y_position": 64.77,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR04",
+                "x_position": 55.88,
+                "y_position": 49.53,
+                "rotation": 90
+            },
+            {
+                "reference": "C12",
+                "x_position": 172.72,
+                "y_position": 21.59,
+                "rotation": 0
+            },
+            {
+                "reference": "J1",
+                "x_position": 185.42,
+                "y_position": 116.84,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR019",
+                "x_position": 190.5,
+                "y_position": 116.84,
+                "rotation": 90
+            },
+            {
+                "reference": "C11",
+                "x_position": 177.8,
+                "y_position": 21.59,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0187",
+                "x_position": 269.24,
+                "y_position": 52.07,
+                "rotation": 0
+            },
+            {
+                "reference": "R12",
+                "x_position": 201.93,
+                "y_position": 54.61,
+                "rotation": 90
+            },
+            {
+                "reference": "C6",
+                "x_position": 213.36,
+                "y_position": 21.59,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR010",
+                "x_position": 232.41,
+                "y_position": 151.13,
+                "rotation": 0
+            },
+            {
+                "reference": "SW1",
+                "x_position": 175.26,
+                "y_position": 146.05,
+                "rotation": 90
+            },
+            {
+                "reference": "C14",
+                "x_position": 162.56,
+                "y_position": 21.59,
+                "rotation": 0
+            },
+            {
+                "reference": "C23",
+                "x_position": 273.05,
+                "y_position": 63.5,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR025",
+                "x_position": 167.64,
+                "y_position": 57.15,
+                "rotation": 0
+            },
+            {
+                "reference": "R14",
+                "x_position": 279.4,
+                "y_position": 62.23,
+                "rotation": 90
+            },
+            {
+                "reference": "C8",
+                "x_position": 195.58,
+                "y_position": 21.59,
+                "rotation": 0
+            },
+            {
+                "reference": "Y1",
+                "x_position": 99.06,
+                "y_position": 104.14,
+                "rotation": 270
+            }
+        ],
+        "sheet_files": [
+            {
+                "sheet_name": "Switches",
+                "sheet_file": "Switches.kicad_sch",
+                "sheet_path": "/home/fventer/Documents/Code/VNTR-65/Hardware/PCB/Switches.kicad_sch",
+                "x_position": 34.29,
+                "y_position": 189.8146,
+                "rotation": 0
+            }
+        ]
+    },
+    {
+        "sheet_name": "Switches",
+        "sheet_path": "/home/fventer/Documents/Code/VNTR-65/Hardware/PCB/Switches.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "#PWR061",
+                "x_position": 237.49,
+                "y_position": 139.7,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0129",
+                "x_position": 356.87,
+                "y_position": 203.2,
+                "rotation": 0
+            },
+            {
+                "reference": "U70",
+                "x_position": 416.56,
+                "y_position": 96.52,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR090",
+                "x_position": 119.38,
+                "y_position": 153.67,
+                "rotation": 0
+            },
+            {
+                "reference": "U23",
+                "x_position": 160.02,
+                "y_position": 130.81,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR082",
+                "x_position": 38.1,
+                "y_position": 154.94,
+                "rotation": 0
+            },
+            {
+                "reference": "U45",
+                "x_position": 140.97,
+                "y_position": 195.58,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR036",
+                "x_position": 38.1,
+                "y_position": 121.92,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR055",
+                "x_position": 176.53,
+                "y_position": 109.22,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0139",
+                "x_position": 394.97,
+                "y_position": 106.68,
+                "rotation": 0
+            },
+            {
+                "reference": "U56",
+                "x_position": 297.18,
+                "y_position": 162.56,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0105",
+                "x_position": 176.53,
+                "y_position": 205.74,
+                "rotation": 0
+            },
+            {
+                "reference": "U19",
+                "x_position": 121.92,
+                "y_position": 130.81,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0158",
+                "x_position": 481.33,
+                "y_position": 151.13,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0159",
+                "x_position": 481.33,
+                "y_position": 171.45,
+                "rotation": 0
+            },
+            {
+                "reference": "U57",
+                "x_position": 297.18,
+                "y_position": 194.31,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0170",
+                "x_position": 452.12,
+                "y_position": 73.66,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0177",
+                "x_position": 314.96,
+                "y_position": 114.3,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR031",
+                "x_position": 38.1,
+                "y_position": 110.49,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0115",
+                "x_position": 275.59,
+                "y_position": 172.72,
+                "rotation": 0
+            },
+            {
+                "reference": "U29",
+                "x_position": 259.08,
+                "y_position": 129.54,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR094",
+                "x_position": 138.43,
+                "y_position": 153.67,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0161",
+                "x_position": 481.33,
+                "y_position": 203.2,
+                "rotation": 0
+            },
+            {
+                "reference": "U32",
+                "x_position": 297.18,
+                "y_position": 97.79,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0141",
+                "x_position": 394.97,
+                "y_position": 138.43,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR054",
+                "x_position": 176.53,
+                "y_position": 88.9,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR058",
+                "x_position": 237.49,
+                "y_position": 87.63,
+                "rotation": 0
+            },
+            {
+                "reference": "U31",
+                "x_position": 278.13,
+                "y_position": 129.54,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0107",
+                "x_position": 237.49,
+                "y_position": 172.72,
+                "rotation": 0
+            },
+            {
+                "reference": "U60",
+                "x_position": 359.41,
+                "y_position": 161.29,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR098",
+                "x_position": 157.48,
+                "y_position": 153.67,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR056",
+                "x_position": 176.53,
+                "y_position": 120.65,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0132",
+                "x_position": 375.92,
+                "y_position": 118.11,
+                "rotation": 0
+            },
+            {
+                "reference": "U76",
+                "x_position": 483.87,
+                "y_position": 161.29,
+                "rotation": 0
+            },
+            {
+                "reference": "U8",
+                "x_position": 327.66,
+                "y_position": 99.06,
+                "rotation": 0
+            },
+            {
+                "reference": "U67",
+                "x_position": 397.51,
+                "y_position": 128.27,
+                "rotation": 0
+            },
+            {
+                "reference": "U34",
+                "x_position": 2.54,
+                "y_position": 165.1,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0126",
+                "x_position": 356.87,
+                "y_position": 151.13,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0171",
+                "x_position": 452.12,
+                "y_position": 127,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0135",
+                "x_position": 375.92,
+                "y_position": 171.45,
+                "rotation": 0
+            },
+            {
+                "reference": "U36",
+                "x_position": 21.59,
+                "y_position": 165.1,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR075",
+                "x_position": 0,
+                "y_position": 175.26,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0154",
+                "x_position": 481.33,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0125",
+                "x_position": 356.87,
+                "y_position": 138.43,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR097",
+                "x_position": 138.43,
+                "y_position": 205.74,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0174",
+                "x_position": -41.91,
+                "y_position": 118.11,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR0102",
+                "x_position": 176.53,
+                "y_position": 153.67,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR091",
+                "x_position": 119.38,
+                "y_position": 173.99,
+                "rotation": 0
+            },
+            {
+                "reference": "U14",
+                "x_position": 21.59,
+                "y_position": 132.08,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR035",
+                "x_position": 19.05,
+                "y_position": 142.24,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR042",
+                "x_position": 119.38,
+                "y_position": 88.9,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR030",
+                "x_position": 38.1,
+                "y_position": 90.17,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR093",
+                "x_position": 119.38,
+                "y_position": 205.74,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR050",
+                "x_position": 157.48,
+                "y_position": 88.9,
+                "rotation": 0
+            },
+            {
+                "reference": "U71",
+                "x_position": 416.56,
+                "y_position": 128.27,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR085",
+                "x_position": 38.1,
+                "y_position": 207.01,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR067",
+                "x_position": 275.59,
+                "y_position": 107.95,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR088",
+                "x_position": 57.15,
+                "y_position": 186.69,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0118",
+                "x_position": 294.64,
+                "y_position": 152.4,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0109",
+                "x_position": 237.49,
+                "y_position": 204.47,
+                "rotation": 0
+            },
+            {
+                "reference": "U66",
+                "x_position": 397.51,
+                "y_position": 96.52,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0101",
+                "x_position": 157.48,
+                "y_position": 205.74,
+                "rotation": 0
+            },
+            {
+                "reference": "U26",
+                "x_position": 240.03,
+                "y_position": 97.79,
+                "rotation": 0
+            },
+            {
+                "reference": "U21",
+                "x_position": 140.97,
+                "y_position": 130.81,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0144",
+                "x_position": 394.97,
+                "y_position": 182.88,
+                "rotation": 0
+            },
+            {
+                "reference": "U33",
+                "x_position": 297.18,
+                "y_position": 129.54,
+                "rotation": 0
+            },
+            {
+                "reference": "U65",
+                "x_position": 378.46,
+                "y_position": 193.04,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0151",
+                "x_position": 414.02,
+                "y_position": 171.45,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR027",
+                "x_position": 0,
+                "y_position": 110.49,
+                "rotation": 0
+            },
+            {
+                "reference": "U75",
+                "x_position": 483.87,
+                "y_position": 128.27,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0133",
+                "x_position": 375.92,
+                "y_position": 138.43,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR037",
+                "x_position": 38.1,
+                "y_position": 142.24,
+                "rotation": 0
+            },
+            {
+                "reference": "U50",
+                "x_position": 240.03,
+                "y_position": 162.56,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR096",
+                "x_position": 138.43,
+                "y_position": 185.42,
+                "rotation": 0
+            },
+            {
+                "reference": "U58",
+                "x_position": 359.41,
+                "y_position": 96.52,
+                "rotation": 0
+            },
+            {
+                "reference": "U52",
+                "x_position": 259.08,
+                "y_position": 162.56,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR043",
+                "x_position": 119.38,
+                "y_position": 109.22,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0128",
+                "x_position": 356.87,
+                "y_position": 182.88,
+                "rotation": 0
+            },
+            {
+                "reference": "U41",
+                "x_position": 59.69,
+                "y_position": 196.85,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0117",
+                "x_position": 275.59,
+                "y_position": 204.47,
+                "rotation": 0
+            },
+            {
+                "reference": "U46",
+                "x_position": 160.02,
+                "y_position": 163.83,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0134",
+                "x_position": 375.92,
+                "y_position": 151.13,
+                "rotation": 0
+            },
+            {
+                "reference": "U59",
+                "x_position": 359.41,
+                "y_position": 128.27,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0127",
+                "x_position": 356.87,
+                "y_position": 171.45,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR099",
+                "x_position": 157.48,
+                "y_position": 173.99,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR064",
+                "x_position": 256.54,
+                "y_position": 119.38,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR063",
+                "x_position": 256.54,
+                "y_position": 107.95,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0152",
+                "x_position": 414.02,
+                "y_position": 182.88,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0176",
+                "x_position": 195.58,
+                "y_position": 115.57,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR0153",
+                "x_position": 414.02,
+                "y_position": 203.2,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0156",
+                "x_position": 481.33,
+                "y_position": 118.11,
+                "rotation": 0
+            },
+            {
+                "reference": "U30",
+                "x_position": 278.13,
+                "y_position": 97.79,
+                "rotation": 0
+            },
+            {
+                "reference": "U39",
+                "x_position": 40.64,
+                "y_position": 196.85,
+                "rotation": 0
+            },
+            {
+                "reference": "U74",
+                "x_position": 483.87,
+                "y_position": 96.52,
+                "rotation": 0
+            },
+            {
+                "reference": "U6",
+                "x_position": 90.17,
+                "y_position": 101.6,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0120",
+                "x_position": 294.64,
+                "y_position": 184.15,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR084",
+                "x_position": 38.1,
+                "y_position": 186.69,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR062",
+                "x_position": 256.54,
+                "y_position": 87.63,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR028",
+                "x_position": 19.05,
+                "y_position": 90.17,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR087",
+                "x_position": 57.15,
+                "y_position": 175.26,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR057",
+                "x_position": 176.53,
+                "y_position": 140.97,
+                "rotation": 0
+            },
+            {
+                "reference": "U25",
+                "x_position": 179.07,
+                "y_position": 130.81,
+                "rotation": 0
+            },
+            {
+                "reference": "U42",
+                "x_position": 121.92,
+                "y_position": 163.83,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0178",
+                "x_position": 439.42,
+                "y_position": 114.3,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR0145",
+                "x_position": 394.97,
+                "y_position": 203.2,
+                "rotation": 0
+            },
+            {
+                "reference": "U55",
+                "x_position": 278.13,
+                "y_position": 194.31,
+                "rotation": 0
+            },
+            {
+                "reference": "U7",
+                "x_position": 208.28,
+                "y_position": 100.33,
+                "rotation": 0
+            },
+            {
+                "reference": "U68",
+                "x_position": 397.51,
+                "y_position": 161.29,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR068",
+                "x_position": 275.59,
+                "y_position": 119.38,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR026",
+                "x_position": 0,
+                "y_position": 90.17,
+                "rotation": 0
+            },
+            {
+                "reference": "U40",
+                "x_position": 59.69,
+                "y_position": 165.1,
+                "rotation": 0
+            },
+            {
+                "reference": "U35",
+                "x_position": 2.54,
+                "y_position": 196.85,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR049",
+                "x_position": 138.43,
+                "y_position": 140.97,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR047",
+                "x_position": 138.43,
+                "y_position": 109.22,
+                "rotation": 0
+            },
+            {
+                "reference": "U11",
+                "x_position": 21.59,
+                "y_position": 100.33,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0112",
+                "x_position": 256.54,
+                "y_position": 184.15,
+                "rotation": 0
+            },
+            {
+                "reference": "U15",
+                "x_position": 40.64,
+                "y_position": 132.08,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0137",
+                "x_position": 375.92,
+                "y_position": 203.2,
+                "rotation": 0
+            },
+            {
+                "reference": "U73",
+                "x_position": 416.56,
+                "y_position": 193.04,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0116",
+                "x_position": 275.59,
+                "y_position": 184.15,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0121",
+                "x_position": 294.64,
+                "y_position": 204.47,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR077",
+                "x_position": 0,
+                "y_position": 207.01,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR044",
+                "x_position": 119.38,
+                "y_position": 120.65,
+                "rotation": 0
+            },
+            {
+                "reference": "U63",
+                "x_position": 378.46,
+                "y_position": 128.27,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR086",
+                "x_position": 57.15,
+                "y_position": 154.94,
+                "rotation": 0
+            },
+            {
+                "reference": "U12",
+                "x_position": 40.64,
+                "y_position": 100.33,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR076",
+                "x_position": 0,
+                "y_position": 186.69,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0148",
+                "x_position": 414.02,
+                "y_position": 118.11,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR059",
+                "x_position": 237.49,
+                "y_position": 107.95,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0150",
+                "x_position": 414.02,
+                "y_position": 151.13,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR032",
+                "x_position": 0,
+                "y_position": 121.92,
+                "rotation": 0
+            },
+            {
+                "reference": "U49",
+                "x_position": 179.07,
+                "y_position": 195.58,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0130",
+                "x_position": 375.92,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0162",
+                "x_position": -29.21,
+                "y_position": 77.47,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR081",
+                "x_position": 19.05,
+                "y_position": 207.01,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0140",
+                "x_position": 394.97,
+                "y_position": 118.11,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0163",
+                "x_position": -29.21,
+                "y_position": 130.81,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0143",
+                "x_position": 394.97,
+                "y_position": 171.45,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR048",
+                "x_position": 138.43,
+                "y_position": 120.65,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR083",
+                "x_position": 38.1,
+                "y_position": 175.26,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0166",
+                "x_position": 208.28,
+                "y_position": 74.93,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR073",
+                "x_position": 294.64,
+                "y_position": 139.7,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0146",
+                "x_position": 414.02,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "U77",
+                "x_position": 483.87,
+                "y_position": 193.04,
+                "rotation": 0
+            },
+            {
+                "reference": "U43",
+                "x_position": 121.92,
+                "y_position": 195.58,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR053",
+                "x_position": 157.48,
+                "y_position": 140.97,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0138",
+                "x_position": 394.97,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR092",
+                "x_position": 119.38,
+                "y_position": 185.42,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0113",
+                "x_position": 256.54,
+                "y_position": 204.47,
+                "rotation": 0
+            },
+            {
+                "reference": "U54",
+                "x_position": 278.13,
+                "y_position": 162.56,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0103",
+                "x_position": 176.53,
+                "y_position": 173.99,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR034",
+                "x_position": 19.05,
+                "y_position": 121.92,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR040",
+                "x_position": 57.15,
+                "y_position": 121.92,
+                "rotation": 0
+            },
+            {
+                "reference": "U62",
+                "x_position": 378.46,
+                "y_position": 96.52,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0123",
+                "x_position": 356.87,
+                "y_position": 106.68,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR070",
+                "x_position": 294.64,
+                "y_position": 87.63,
+                "rotation": 0
+            },
+            {
+                "reference": "U47",
+                "x_position": 160.02,
+                "y_position": 195.58,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0104",
+                "x_position": 176.53,
+                "y_position": 185.42,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0175",
+                "x_position": 77.47,
+                "y_position": 116.84,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR080",
+                "x_position": 19.05,
+                "y_position": 186.69,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR074",
+                "x_position": 0,
+                "y_position": 154.94,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR066",
+                "x_position": 275.59,
+                "y_position": 87.63,
+                "rotation": 0
+            },
+            {
+                "reference": "U9",
+                "x_position": 452.12,
+                "y_position": 99.06,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0131",
+                "x_position": 375.92,
+                "y_position": 106.68,
+                "rotation": 0
+            },
+            {
+                "reference": "U10",
+                "x_position": 2.54,
+                "y_position": 100.33,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR095",
+                "x_position": 138.43,
+                "y_position": 173.99,
+                "rotation": 0
+            },
+            {
+                "reference": "U53",
+                "x_position": 259.08,
+                "y_position": 194.31,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR029",
+                "x_position": 19.05,
+                "y_position": 110.49,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR033",
+                "x_position": 0,
+                "y_position": 142.24,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0136",
+                "x_position": 375.92,
+                "y_position": 182.88,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0142",
+                "x_position": 394.97,
+                "y_position": 151.13,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0122",
+                "x_position": 356.87,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "U13",
+                "x_position": 2.54,
+                "y_position": 132.08,
+                "rotation": 0
+            },
+            {
+                "reference": "U24",
+                "x_position": 179.07,
+                "y_position": 99.06,
+                "rotation": 0
+            },
+            {
+                "reference": "U64",
+                "x_position": 378.46,
+                "y_position": 161.29,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0147",
+                "x_position": 414.02,
+                "y_position": 106.68,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0149",
+                "x_position": 414.02,
+                "y_position": 138.43,
+                "rotation": 0
+            },
+            {
+                "reference": "U44",
+                "x_position": 140.97,
+                "y_position": 163.83,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR079",
+                "x_position": 19.05,
+                "y_position": 175.26,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0157",
+                "x_position": 481.33,
+                "y_position": 138.43,
+                "rotation": 0
+            },
+            {
+                "reference": "U38",
+                "x_position": 40.64,
+                "y_position": 165.1,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0164",
+                "x_position": 90.17,
+                "y_position": 76.2,
+                "rotation": 0
+            },
+            {
+                "reference": "U69",
+                "x_position": 397.51,
+                "y_position": 193.04,
+                "rotation": 0
+            },
+            {
+                "reference": "U37",
+                "x_position": 21.59,
+                "y_position": 196.85,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0168",
+                "x_position": 327.66,
+                "y_position": 73.66,
+                "rotation": 0
+            },
+            {
+                "reference": "U27",
+                "x_position": 240.03,
+                "y_position": 129.54,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR051",
+                "x_position": 157.48,
+                "y_position": 109.22,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0119",
+                "x_position": 294.64,
+                "y_position": 172.72,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0111",
+                "x_position": 256.54,
+                "y_position": 172.72,
+                "rotation": 0
+            },
+            {
+                "reference": "U20",
+                "x_position": 140.97,
+                "y_position": 99.06,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0106",
+                "x_position": 237.49,
+                "y_position": 152.4,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR072",
+                "x_position": 294.64,
+                "y_position": 119.38,
+                "rotation": 0
+            },
+            {
+                "reference": "U16",
+                "x_position": 59.69,
+                "y_position": 100.33,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0169",
+                "x_position": 327.66,
+                "y_position": 127,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0100",
+                "x_position": 157.48,
+                "y_position": 185.42,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0155",
+                "x_position": 481.33,
+                "y_position": 106.68,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0110",
+                "x_position": 256.54,
+                "y_position": 152.4,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR078",
+                "x_position": 19.05,
+                "y_position": 154.94,
+                "rotation": 0
+            },
+            {
+                "reference": "U72",
+                "x_position": 416.56,
+                "y_position": 161.29,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0160",
+                "x_position": 481.33,
+                "y_position": 182.88,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR071",
+                "x_position": 294.64,
+                "y_position": 107.95,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0124",
+                "x_position": 356.87,
+                "y_position": 118.11,
+                "rotation": 0
+            },
+            {
+                "reference": "U48",
+                "x_position": 179.07,
+                "y_position": 163.83,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR052",
+                "x_position": 157.48,
+                "y_position": 120.65,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR046",
+                "x_position": 138.43,
+                "y_position": 88.9,
+                "rotation": 0
+            },
+            {
+                "reference": "U28",
+                "x_position": 259.08,
+                "y_position": 97.79,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR065",
+                "x_position": 256.54,
+                "y_position": 139.7,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR038",
+                "x_position": 57.15,
+                "y_position": 90.17,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0114",
+                "x_position": 275.59,
+                "y_position": 152.4,
+                "rotation": 0
+            },
+            {
+                "reference": "U51",
+                "x_position": 240.03,
+                "y_position": 194.31,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR045",
+                "x_position": 119.38,
+                "y_position": 140.97,
+                "rotation": 0
+            },
+            {
+                "reference": "U61",
+                "x_position": 359.41,
+                "y_position": 193.04,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR069",
+                "x_position": 275.59,
+                "y_position": 139.7,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0167",
+                "x_position": 208.28,
+                "y_position": 128.27,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR039",
+                "x_position": 57.15,
+                "y_position": 110.49,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0108",
+                "x_position": 237.49,
+                "y_position": 184.15,
+                "rotation": 0
+            },
+            {
+                "reference": "U17",
+                "x_position": 59.69,
+                "y_position": 132.08,
+                "rotation": 0
+            },
+            {
+                "reference": "U5",
+                "x_position": -29.21,
+                "y_position": 102.87,
+                "rotation": 0
+            },
+            {
+                "reference": "U22",
+                "x_position": 160.02,
+                "y_position": 99.06,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR041",
+                "x_position": 57.15,
+                "y_position": 142.24,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR060",
+                "x_position": 237.49,
+                "y_position": 119.38,
+                "rotation": 0
+            },
+            {
+                "reference": "U18",
+                "x_position": 121.92,
+                "y_position": 99.06,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR0165",
+                "x_position": 90.17,
+                "y_position": 129.54,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR089",
+                "x_position": 57.15,
+                "y_position": 207.01,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": []
+    }
+]
