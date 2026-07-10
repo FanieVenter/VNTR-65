@@ -14,3 +14,5 @@ I finished designing the first verion of the schematic and made a basic pcb with
 ## Jul 10
 ### 10:00
 I refactored the repository so that everything is organised nicely and in its own folder.
+### 11:00 - 19:00
+I went through and configured the pcb as well as routing and started working on the case in onshape.
