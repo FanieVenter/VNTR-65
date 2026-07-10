@@ -6032,6 +6032,12 @@
 		(uuid "2dc6fc2e-15ea-4a3d-8627-b3cc9df18b06")
 	)
 	(junction
+		(at 262.89 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "369870ee-91be-4f47-b434-f14da7779e7e")
+	)
+	(junction
 		(at 213.36 17.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6246,12 +6252,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f8f6e061-9ea8-45eb-969a-796f62ce2157")
-	)
-	(junction
-		(at 265.3575 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fbf1d55a-9868-4cde-8cba-ebd60f4e978f")
 	)
 	(junction
 		(at 167.64 34.29)
@@ -6861,7 +6861,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 97.79) (xy 265.3575 97.79)
+			(xy 262.89 97.79) (xy 266.7 97.79)
 		)
 		(stroke
 			(width 0)
@@ -6888,6 +6888,16 @@
 			(type default)
 		)
 		(uuid "6c549373-bad2-48a4-a024-3f2216ef7bc1")
+	)
+	(wire
+		(pts
+			(xy 262.89 97.79) (xy 261.62 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71d0dcba-d25c-4fac-ab40-b33e7a903bac")
 	)
 	(wire
 		(pts
@@ -7701,16 +7711,6 @@
 	)
 	(wire
 		(pts
-			(xy 265.3575 97.79) (xy 261.62 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9e7674f-0de4-4037-a6dd-90f5cb28b60b")
-	)
-	(wire
-		(pts
 			(xy 245.11 29.21) (xy 245.11 36.83)
 		)
 		(stroke
@@ -8203,6 +8203,84 @@
 			(project "VNTR-65"
 				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
 					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 262.89 105.41 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0a2a29d3-aece-4dc9-8030-db6f55e6c014")
+		(property "Reference" "#PWR0186"
+			(at 262.89 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 262.89 110.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 262.89 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 262.89 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 262.89 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f19bb310-3cef-4692-8925-02a944eafe47")
+		)
+		(instances
+			(project "VNTR-65"
+				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
+					(reference "#PWR0186")
 					(unit 1)
 				)
 			)
@@ -11562,6 +11640,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 262.89 101.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "720f837c-ab60-45f5-9024-a524fe6c5020")
+		(property "Reference" "R19"
+			(at 265.5025 100.3299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 265.5025 102.8699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 261.112 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 262.89 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 262.89 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "361a23db-c4b7-4530-9fb1-301bf2dc5617")
+		)
+		(pin "1"
+			(uuid "f8ac1605-7d72-4f2a-a36f-8c4d80ddddbc")
+		)
+		(instances
+			(project "VNTR-65"
+				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
+					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 274.32 36.83 0)
 		(unit 1)
@@ -12220,7 +12380,7 @@
 				)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3.3V"
 			(at 187.96 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13591,84 +13751,6 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 265.43 105.41 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aebb7925-d49d-4284-ac09-006aeaf89dbc")
-		(property "Reference" "#PWR0186"
-			(at 265.43 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 265.43 110.49 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 265.43 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 265.43 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 265.43 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e4759423-f5b9-47d6-942e-54564eee386f")
-		)
-		(instances
-			(project "VNTR-65"
-				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
-					(reference "#PWR0186")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
 		(at 96.52 44.45 0)
 		(unit 1)
 		(body_style 1)
@@ -13905,88 +13987,6 @@
 			(project "VNTR-65"
 				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
 					(reference "R16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 265.3575 101.6 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b86d6136-a634-44c6-bcaf-53f60e063bd8")
-		(property "Reference" "R17"
-			(at 267.97 100.3299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7k"
-			(at 267.97 102.8699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 263.5795 101.6 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 265.3575 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 265.3575 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "17f0ac85-34e1-4b63-b60c-84b0df44ed58")
-		)
-		(pin "1"
-			(uuid "8b4d630d-4e88-46c2-8801-6a6e5724f563")
-		)
-		(instances
-			(project "VNTR-65"
-				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
-					(reference "R17")
 					(unit 1)
 				)
 			)
