@@ -5999,6 +5999,12 @@
 		(uuid "821d71f9-24f5-4f69-b573-d47b87345561")
 	)
 	(junction
+		(at 295.91 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "82e9584c-3f45-4815-a804-8ecbb183c951")
+	)
+	(junction
 		(at 68.58 167.005)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8052,6 +8058,16 @@
 	)
 	(wire
 		(pts
+			(xy 295.91 132.08) (xy 295.91 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7d7e4b1-5b4a-4859-9782-3f4f16cf2917")
+	)
+	(wire
+		(pts
 			(xy 173.99 25.4) (xy 173.99 12.7)
 		)
 		(stroke
@@ -8282,7 +8298,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 109.22) (xy 236.22 109.22)
+			(xy 220.98 109.22) (xy 295.91 109.22)
 		)
 		(stroke
 			(width 0)
@@ -10842,7 +10858,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 293.37 55.626 0)
 			(hide yes)
 			(show_name no)
@@ -12536,7 +12552,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RP2350_80QFN_minimal:RP2350-QFN-80-1EP_10x10_P0.4mm_EP3.4x3.4mm_ThermalVias"
+		(property "Footprint" "Package_DFN_QFN:QFN-80-1EP_10x10mm_P0.4mm_EP3.4x3.4mm"
 			(at 165.1 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -14198,7 +14214,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A"
 			(at 1.27 -10.16 0)
 			(hide yes)
 			(show_name no)
@@ -14502,7 +14518,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 57.15 -31.242 90)
 			(hide yes)
 			(show_name no)
@@ -15055,7 +15071,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Potentiometer_THT_AKL:Potentiometer_Bourns_PTA6043_Single_Slide"
 			(at 284.48 132.08 0)
 			(hide yes)
 			(show_name no)

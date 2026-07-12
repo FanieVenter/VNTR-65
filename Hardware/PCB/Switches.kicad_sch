@@ -1391,16 +1391,6 @@
 	)
 	(wire
 		(pts
-			(xy 472.44 193.04) (xy 491.49 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "359fcdbe-596c-4342-a48d-dde6cdf9adec")
-	)
-	(wire
-		(pts
 			(xy 410.21 119.38) (xy 410.21 193.04)
 		)
 		(stroke
@@ -2381,16 +2371,6 @@
 	)
 	(wire
 		(pts
-			(xy 464.82 88.9) (xy 472.44 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b273bb1b-6437-44bd-90cd-ebf55d5907e1")
-	)
-	(wire
-		(pts
 			(xy 228.6 194.31) (xy 247.65 194.31)
 		)
 		(stroke
@@ -2758,16 +2738,6 @@
 			(type default)
 		)
 		(uuid "e210ddf2-3fc6-4a2c-943f-e17bb9dbec1e")
-	)
-	(wire
-		(pts
-			(xy 472.44 88.9) (xy 472.44 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e22e538d-28a7-4b5e-824b-cbc698852630")
 	)
 	(wire
 		(pts
@@ -5354,84 +5324,6 @@
 			(project "VNTR-65"
 				(path "/9381cecd-296d-4002-be35-b038a1e96b55/035a10d1-8b88-4317-ad70-2839e681f0d1"
 					(reference "#PWR094")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 481.33 203.2 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1ebc6f74-e69c-4f99-808e-e0dd2b7f3d0e")
-		(property "Reference" "#PWR0161"
-			(at 481.33 209.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 481.33 208.28 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 481.33 203.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 481.33 203.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 481.33 203.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ad50d709-ac2e-4d61-b78a-dd302d9bb32d")
-		)
-		(instances
-			(project "VNTR-65"
-				(path "/9381cecd-296d-4002-be35-b038a1e96b55/035a10d1-8b88-4317-ad70-2839e681f0d1"
-					(reference "#PWR0161")
 					(unit 1)
 				)
 			)
@@ -15339,93 +15231,6 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-he:SW_MX_HE")
-		(at 483.87 193.04 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ada1f900-17c3-4811-8cd3-902aa9cb8280")
-		(property "Reference" "U77"
-			(at 477.52 191.7699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SW_MX_HE"
-			(at 477.52 194.3099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
-			(at 483.87 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310271810_Hallwee-HAL9303SO_C19089525.pdf"
-			(at 483.87 176.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Hall effect switch, bipolar, -+1000Gs, 4.7mV/Gs, -40C to +150C, SOT-23"
-			(at 483.87 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "7ada745a-39fd-49ae-86bb-7ad9d382194c")
-		)
-		(pin "1"
-			(uuid "239f554e-bf4b-456d-a63e-3aad87c81d21")
-		)
-		(pin "2"
-			(uuid "fcc050c8-7be1-4e13-b8c4-f80020ee2ac9")
-		)
-		(instances
-			(project "VNTR-65"
-				(path "/9381cecd-296d-4002-be35-b038a1e96b55/035a10d1-8b88-4317-ad70-2839e681f0d1"
-					(reference "U77")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_marbastlib-he:SW_MX_HE")
 		(at 121.92 195.58 0)
 		(unit 1)
 		(body_style 1)
@@ -22245,17 +22050,15 @@
 		(uuid "ef399ff9-3c47-4bf0-885d-5551fd46fdea")
 		(members "11fb9480-f201-475a-8a1f-afae020eb6f0" "133ffc07-4d01-411c-96d6-13f9bd20c375"
 			"1347f9d9-9eff-4800-aa6d-fd5be2b8fefe" "143594d9-ca0a-4e0c-88be-19ea848d02c5"
-			"1ebc6f74-e69c-4f99-808e-e0dd2b7f3d0e" "2a5b67cb-3aed-4c61-baeb-8eb9f4ebfc48"
-			"325dfff5-840d-4bd2-8f76-67361cdb2db4" "359fcdbe-596c-4342-a48d-dde6cdf9adec"
+			"2a5b67cb-3aed-4c61-baeb-8eb9f4ebfc48" "325dfff5-840d-4bd2-8f76-67361cdb2db4"
 			"36445c2d-9237-456e-b308-9f4f945e722e" "39ed282c-60a9-4248-aaa9-0dfa82ff2fd0"
 			"541c0de8-66e5-4a23-8167-1cfc4092fd40" "68ad9e26-f62c-4df9-ae84-3036ebde04da"
 			"69f7c49c-0018-4596-aae1-01284979eb1b" "8b6fbdbc-3ad3-408f-882c-7ff58a87f97f"
 			"a7a50ae4-ba6f-4979-92f0-af2a72fb4214" "ab4302f8-60e2-4168-86c3-e64659942d2b"
-			"ada1f900-17c3-4811-8cd3-902aa9cb8280" "b273bb1b-6437-44bd-90cd-ebf55d5907e1"
 			"be60cc36-e398-4ab5-8d0c-01106e09cae7" "c7e76322-bb28-454f-9b31-5e72b624f369"
-			"d0428ff2-9ced-4dec-9770-675918a293d8" "e22e538d-28a7-4b5e-824b-cbc698852630"
-			"e3d279df-3ca6-4ebb-b02b-c96e8f9aec55" "e4c3276a-bf3a-4c78-a8e2-8d1a1827fddb"
-			"f3ef8a17-88fa-4963-bb24-0f07b0ee77eb" "fffffc29-9180-413d-a75b-d0feebca5d09"
+			"d0428ff2-9ced-4dec-9770-675918a293d8" "e3d279df-3ca6-4ebb-b02b-c96e8f9aec55"
+			"e4c3276a-bf3a-4c78-a8e2-8d1a1827fddb" "f3ef8a17-88fa-4963-bb24-0f07b0ee77eb"
+			"fffffc29-9180-413d-a75b-d0feebca5d09"
 		)
 	)
 )
