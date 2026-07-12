@@ -16,3 +16,6 @@ I finished designing the first verion of the schematic and made a basic pcb with
 I refactored the repository so that everything is organised nicely and in its own folder.
 ### 11:00 - 19:00
 I went through and configured the pcb as well as routing and started working on the case in onshape.
+## Jul 12
+### 11:00 - 17:00
+I moved over to using the hardware design schematic for the rp2350b's minimalist schematic to make sure that the chip would boot instead of anyways trying to copy each component by hand. I also rerouted and placed everything on the pcb so that now everything is better routed.
