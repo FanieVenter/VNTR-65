@@ -5993,12 +5993,6 @@
 		(uuid "808f2c2f-bcde-49aa-acba-9dbddd6f6694")
 	)
 	(junction
-		(at 24.765 56.515)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "821d71f9-24f5-4f69-b573-d47b87345561")
-	)
-	(junction
 		(at 295.91 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6039,12 +6033,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "969fa6bd-46c9-4d4e-bf19-1891f331f4e6")
-	)
-	(junction
-		(at 38.735 56.515)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9c185d0a-e8fd-4366-9020-f2d4de2d865c")
 	)
 	(junction
 		(at 185.42 12.7)
@@ -6117,12 +6105,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dc2423ab-c24c-4e43-ab6d-eb5544d195b8")
-	)
-	(junction
-		(at 53.34 40.005)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dc291b43-d284-46f5-9349-cf5890554465")
 	)
 	(junction
 		(at -5.08 31.75)
@@ -6458,7 +6440,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.735 56.515) (xy 40.64 56.515)
+			(xy 22.225 56.515) (xy 40.64 56.515)
 		)
 		(stroke
 			(width 0)
@@ -6655,16 +6637,6 @@
 			(type default)
 		)
 		(uuid "2f50bff5-6a39-48a3-86e8-c60300d52591")
-	)
-	(wire
-		(pts
-			(xy 38.735 40.005) (xy 53.34 40.005)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "306455e7-1cc3-4531-b3e0-fa9da70f44e3")
 	)
 	(wire
 		(pts
@@ -6998,26 +6970,6 @@
 	)
 	(wire
 		(pts
-			(xy 24.765 56.515) (xy 38.735 56.515)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56b563ab-6d78-4e4b-b81c-355abe903977")
-	)
-	(wire
-		(pts
-			(xy 53.34 40.005) (xy 53.34 48.895)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57505a01-ccad-4e64-b6c9-b005ea65d538")
-	)
-	(wire
-		(pts
 			(xy 275.59 57.15) (xy 273.05 57.15)
 		)
 		(stroke
@@ -7185,16 +7137,6 @@
 			(type default)
 		)
 		(uuid "613b5383-5f0f-42a3-a415-e680cec1ccb8")
-	)
-	(wire
-		(pts
-			(xy 38.735 49.53) (xy 38.735 56.515)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "616da84a-856a-4203-b82f-51faf65a067f")
 	)
 	(wire
 		(pts
@@ -7878,16 +7820,6 @@
 	)
 	(wire
 		(pts
-			(xy 22.225 56.515) (xy 24.765 56.515)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98a9a83c-57fa-4155-bab2-eb45fd3731f8")
-	)
-	(wire
-		(pts
 			(xy 214.63 -6.35) (xy 214.63 -7.62)
 		)
 		(stroke
@@ -8178,16 +8110,6 @@
 	)
 	(wire
 		(pts
-			(xy 4.445 47.625) (xy 14.605 47.625)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b10d9c8b-bb1b-4246-ae07-c7ff3e08e1a6")
-	)
-	(wire
-		(pts
 			(xy 78.74 156.845) (xy 90.17 156.845)
 		)
 		(stroke
@@ -8235,16 +8157,6 @@
 			(type default)
 		)
 		(uuid "bd6a26cc-dd8a-464e-add4-814f29c6cfdd")
-	)
-	(wire
-		(pts
-			(xy 38.735 41.91) (xy 38.735 40.005)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bea78225-b758-4793-81c3-0f2be70ba4c0")
 	)
 	(wire
 		(pts
@@ -8335,16 +8247,6 @@
 			(type default)
 		)
 		(uuid "c5c1eb6c-4e08-4c0f-8a4a-9dfc852de80e")
-	)
-	(wire
-		(pts
-			(xy 22.225 47.625) (xy 24.765 47.625)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c648a229-ff93-4082-847b-2dd23a546370")
 	)
 	(wire
 		(pts
@@ -8568,16 +8470,6 @@
 	)
 	(wire
 		(pts
-			(xy 24.765 47.625) (xy 24.765 56.515)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7685d7f-354d-4712-a4a9-4c47db0c291d")
-	)
-	(wire
-		(pts
 			(xy 66.04 64.135) (xy 78.74 64.135)
 		)
 		(stroke
@@ -8768,7 +8660,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 36.195) (xy 53.34 40.005)
+			(xy 53.34 36.195) (xy 53.34 48.895)
 		)
 		(stroke
 			(width 0)
@@ -9205,16 +9097,6 @@
 			(justify right bottom)
 		)
 		(uuid "4fe95db3-0de2-4d32-87b8-ff7fdd50a3c3")
-	)
-	(label "GPIO0"
-		(at 4.445 47.625 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "509320da-6170-4ae6-a64b-e26a3143510d")
 	)
 	(label "SWD"
 		(at 303.53 151.13 0)
@@ -10298,7 +10180,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 262.89 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10424,86 +10306,6 @@
 			(project "VNTR-65"
 				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
 					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 18.415 47.625 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "13262acf-a694-4434-af97-a868e28125b3")
-		(property "Reference" "R9"
-			(at 17.2466 45.847 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DNF"
-			(at 19.558 45.847 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 18.415 49.403 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 18.415 47.625 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 18.415 47.625 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "65cd0066-442e-4f4d-990a-72f8be010da6")
-		)
-		(pin "2"
-			(uuid "e2a9ac58-e606-4fd3-adfb-1cc326eed06d")
-		)
-		(instances
-			(project "VNTR-65"
-				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
-					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -11389,87 +11191,6 @@
 			(project "VNTR-65"
 				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
 					(reference "#PWR024")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 38.735 45.72 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "296e9d9c-1055-4ee7-9d72-627a5cf9bd0c")
-		(property "Reference" "R1"
-			(at 35.56 44.45 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DNF"
-			(at 35.56 46.99 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 40.513 45.72 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 38.735 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 38.735 45.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1b56c7ef-9f7c-40c5-9900-9e891eae3569")
-		)
-		(pin "2"
-			(uuid "61b34c20-e8c7-45e9-b994-3e7e09a40312")
-		)
-		(instances
-			(project "VNTR-65"
-				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
-					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -13106,7 +12827,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 273.05 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14589,7 +14310,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 264.16 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14747,7 +14468,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 284.48 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
