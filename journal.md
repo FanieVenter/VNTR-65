@@ -22,4 +22,7 @@ I moved over to using the hardware design schematic for the rp2350b's minimalist
 ## Jul 14
 I worked on the case. I also added a few more mounting holes for the case. I also got the quote for the rough case outline and it would cost 117 USD for the case before shipping I also got the quote for the pcb and it would be 143 usd for jsuty the pcb and 217 usd for the pcba maiking it 430 usd after shipping.
 ## Jul 15
-I refined the pcb overall and made it a bit better and made sure to check over everything as well as moving all +3.3v nets to the +3v3 net. I also decided to remove the haptic feedback idea as that just overcomplicates things
+### 11:00
+I refined the pcb overall and made it a bit better and made sure to check over everything as well as moving all +3.3v nets to the +3v3 net. I also decided to remove the haptic feedback idea as that just overcomplicates things.
+### 13:00 - 14:00
+I reduced the size of the case so that it only weighs about 1kg now and I also made it so that it cost 80 usd instead of 127 as before, I made a blender file with all the parts and added a procedural texture for the aluminum. I also added a usb c cutout in the aluminum.
