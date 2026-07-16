@@ -21,5 +21,5 @@ Onshape link for the [Case](https://cad.onshape.com/documents/299d1cd18e1c0fa7ad
 - [BOM (CSV)](BOM.csv) Bill of materials in CSV format.
 
 ## Concept Image
-![Concept Image](Images/concept.png)
+![Concept Image](Images/Concept.png)
 **Note: This was rendered in blender and no Ai was used.**
