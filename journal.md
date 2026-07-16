@@ -26,3 +26,6 @@ I worked on the case. I also added a few more mounting holes for the case. I als
 I refined the pcb overall and made it a bit better and made sure to check over everything as well as moving all +3.3v nets to the +3v3 net. I also decided to remove the haptic feedback idea as that just overcomplicates things.
 ### 13:00 - 15:00
 I reduced the size of the case so that it only weighs about 1kg now and I also made it so that it cost 80 usd instead of 127 as before, I made a blender file with all the parts and added a procedural texture for the aluminum. I also added a usb c cutout in the aluminum. I also added a threads drawing so that they will know where the threads go instead of guessing.
+## Jul 16
+### 10:00 - 15:00
+I made the case sizing be appropriate and made the wood part of the case in onshape, I added both of those to the repo. I also refined the sizing of the pcb and moved the rotary encoder to a better spot. I added the ec11 rotary encoder as well as a knob for it to the blender file. I added the ssd1306 0.91 inch display to the blender file as well as a knob for the pta6043 as I couldnt find a model for the actual sliding pot. I also rendered a somewhat finilased version of the keyboard and added it to the images folder as well as replacing the ai one in the readme
