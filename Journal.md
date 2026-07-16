@@ -20,6 +20,7 @@ I went through and configured the pcb as well as routing and started working on 
 ### 11:00 - 17:00
 I moved over to using the hardware design schematic for the RP2350b's minimalist schematic to make sure that the chip would boot instead of anyways trying to copy each component by hand. I also rerouted and placed everything on the pcb so that now everything is better routed.
 ## Jul 14
+### 10:00 - 17:00
 I worked on the case. I also added a few more mounting holes for the case. I also got the quote for the rough case outline and it would cost 117 USD for the case before shipping I also got the quote for the pcb and it would be 143 usd for just the pcb and 217 usd for the pcba maiking it 430 usd after shipping.
 ## Jul 15
 ### 11:00
