@@ -13,10 +13,10 @@ I learn't how to design a keyboard from scratch using Kicad for the pcb. I also 
 Onshape link for the [Case](https://cad.onshape.com/documents/299d1cd18e1c0fa7ad37c188/w/39af968ec4536d8e3dda6814/e/b83c5326b9acf81a68bd5a35?renderMode=0&uiState=6a509a3fdb7545b8e7caa558).
 
 ## Files
-[Journal](Journal.md) Journal of this project.
-[PCB Files](Hardware/PCB) Kicad files for this project.
-[3D Files]("Hardware/3D Models") 3D models used in this project as well as where the blender file is.
-[Gallery](Gallery.md) Images of the project and renders of the keyboard.
+- [Journal](Journal.md) Journal of this project.
+- [PCB Files](Hardware/PCB) Kicad files for this project.
+- [3D Files](Hardware/3D%20Models) 3D models used in this project as well as where the blender file is.
+- [Gallery](Gallery.md) Images of the project and renders of the keyboard.
 
 ## Concept Image
 ![Concept Image](Images/concept.png)
