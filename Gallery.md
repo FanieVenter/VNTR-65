@@ -1,11 +1,5 @@
 # Gallery
 
-## 2026-07-08
-
-![AI Concept Image](Images/ai-concept-image.png)
-
-*AI-generated concept design for the keyboard while not being around a computer.*
-
 ## 2026-07-09
 
 ![Keyboard Layout](Images/keyboard-layout.svg)
