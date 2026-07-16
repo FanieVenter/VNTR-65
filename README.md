@@ -17,6 +17,8 @@ Onshape link for the [Case](https://cad.onshape.com/documents/299d1cd18e1c0fa7ad
 - [PCB Files](Hardware/PCB) Kicad files for this project.
 - [3D Files](Hardware/3D%20Models) 3D models used in this project as well as where the blender file is.
 - [Gallery](Gallery.md) Images of the project and renders of the keyboard.
+- [BOM (PDF)](BOM.pdf) Bill of materials.
+- [BOM (CSV)](BOM.csv) Bill of materials in CSV format.
 
 ## Concept Image
 ![Concept Image](Images/concept.png)
