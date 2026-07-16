@@ -15,7 +15,8 @@ Onshape link for the [Case](https://cad.onshape.com/documents/299d1cd18e1c0fa7ad
 
 ## Files
 - [Journal](Journal.md) Journal of this project.
-- [PCB Files](Hardware/PCB) Kicad files for this project.
+- [PCB Files](Hardware/PCB) Kicad files for the keyboard.
+- [Production Files](Hardware/PCB/production) Production files for this project.
 - [3D Files](Hardware/3D%20Models) 3D models used in this project as well as where the blender file is.
 - [Gallery](Gallery.md) Images of the project and renders of the keyboard.
 - [BOM (PDF)](BOM.pdf) Bill of materials.
