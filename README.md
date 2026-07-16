@@ -1,4 +1,5 @@
 # **VNTR-65**
+<img src="Images/logo.svg" width="80" alt="Logo">
 A custom, over-engineered 65% keyboard featuring an RP2350 MCU, a hall effect key matrix, an analog slide potentiometer, an OLED display. Built for daily use thanks to HackClub.
 
 ## Why I decided to make this keyboard.
