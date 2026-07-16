@@ -60,11 +60,11 @@
 
 ## 2026-07-16
 
-![PCB Screenshot](Images/Screenshot%202026-07-16%20110853.png)
+![PCB Front](Images/Screenshot%202026-07-16%20211133.png)
 
-![PCB Screenshot](Images/Screenshot%202026-07-16%20125014.png)
+![PCB Back (with silkscreen)](Images/Screenshot%202026-07-16%20211123.png)
 
-*Blender screenshots from 16 July, showing the refined design.*
+*PCB front and back (with silkscreen) from 16 July.*
 
 ![Concept](Images/Concept.png)
 

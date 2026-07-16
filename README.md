@@ -24,3 +24,9 @@ Onshape link for the [Case](https://cad.onshape.com/documents/299d1cd18e1c0fa7ad
 ## Concept Image
 ![Concept Image](Images/Concept.png)
 **Note: This was rendered in blender and no Ai was used.**
+
+## PCB Photos
+<img src="Images/Screenshot%202026-07-16%20211133.png" width="400" alt="PCB Front">
+<img src="Images/Screenshot%202026-07-16%20211123.png" width="400" alt="PCB Back (with silkscreen)">
+
+*Front and back of the PCB — the back has the silkscreen applied.*
