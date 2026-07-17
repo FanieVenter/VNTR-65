@@ -1,6 +1,10 @@
-# **VNTR-65**
-<img src="Images/logo.svg" width="80" alt="Logo">
-A custom, over-engineered 65% keyboard featuring an RP2350 MCU, a hall effect key matrix, an analog slide potentiometer, an OLED display. Built for daily use thanks to HackClub.
+<img src="Images/logo.svg" width="80" align="right" alt="Logo">
+
+# VNTR-65
+
+A custom, over-engineered 65% keyboard featuring an RP2350 MCU, a hall effect key matrix, an analog slide potentiometer, and an OLED display. Built for daily use thanks to Hack Club.
+
+![Concept Image](Images/Concept.png)
 
 ## Why I decided to make this keyboard.
 I wanted to build a nice keyboard that I could use every day at school while knowing it won't break, I also wanted to make a keyboard that used hall effect switches to allow for analog inputs in racing ganes like Assetto Corsa and giving me a more challenging and fun experience designing it.
@@ -22,9 +26,6 @@ Onshape link for the [Case](https://cad.onshape.com/documents/299d1cd18e1c0fa7ad
 - [BOM (PDF)](BOM.pdf) Bill of materials.
 - [BOM (CSV)](BOM.csv) Bill of materials in CSV format.
 
-## Concept Image
-![Concept Image](Images/Concept.png)
-**Note: This was rendered in blender and no Ai was used.**
 
 ## PCB Photos
 <img src="Images/Screenshot%202026-07-16%20211133.png" width="400" alt="PCB Front">
