@@ -14,6 +14,9 @@ To use this keyboard you will need to either download the production files for J
 
 ## What I learnt with this project.
 I learn't how to design a keyboard from scratch using Kicad for the pcb. I also learn't how to use onshape after deciding to swap to it from Freecad a little bit because the projects says to have it in onshape but mostly as I had realised after 2 years of FreeCAD use that it wasn't powerful enough for me. I learn't how to take a raw wood texture file and make it look like a satin polyeuranted finished piece of wood in blender.
+# Important.
+The cost of the pcba has gone down since I submitted the project for review. For updated pricing and screenshot check the [BOM](BOM.pdf).
+
 ## Onshape Link
 Onshape link for the [Case](https://cad.onshape.com/documents/299d1cd18e1c0fa7ad37c188/w/39af968ec4536d8e3dda6814/e/b83c5326b9acf81a68bd5a35?renderMode=0&uiState=6a509a3fdb7545b8e7caa558).
 
