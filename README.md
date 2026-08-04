@@ -45,3 +45,24 @@ Onshape link for the [Case](https://cad.onshape.com/documents/299d1cd18e1c0fa7ad
 <img src="Images/Screenshot%202026-07-16%20211123.png" width="400" alt="PCB Back (with silkscreen)">
 
 *Front and back of the PCB — the back has the silkscreen applied.*
+
+## Wiring
+<img src="Images/Full%20pcb%20wiring.png" width="700" alt="Full PCB wiring">
+
+*Full PCB wiring across all copper layers.*
+
+<img src="Images/Full%20pcb%20wiring%20front%20layer.png" width="700" alt="Full PCB wiring front layer">
+
+*Full PCB wiring on the front copper layer.*
+
+<img src="Images/Full%20pcb%20wiring%20back%20layer.png" width="700" alt="Full PCB wiring back layer">
+
+*Full PCB wiring on the back copper layer.*
+
+<img src="Images/Main%20part%20of%20pcb%20wiring%20front%20layer.png" width="700" alt="Main part of PCB wiring front layer">
+
+*Main section wiring on the front copper layer.*
+
+<img src="Images/Main%20part%20of%20pcb%20wiring%20back%20layer.png" width="700" alt="Main part of PCB wiring back layer">
+
+*Main section wiring on the back copper layer.*

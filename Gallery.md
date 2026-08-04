@@ -63,3 +63,25 @@
 ![Concept](Images/Concept.png)
 
 *Full concept render of the keyboard case and PCB.*
+
+## Wiring
+
+![Full PCB wiring](Images/Full%20pcb%20wiring.png)
+
+*Full PCB wiring across all copper layers.*
+
+![Full PCB wiring front layer](Images/Full%20pcb%20wiring%20front%20layer.png)
+
+*Full PCB wiring on the front copper layer.*
+
+![Full PCB wiring back layer](Images/Full%20pcb%20wiring%20back%20layer.png)
+
+*Full PCB wiring on the back copper layer.*
+
+![Main part of PCB wiring front layer](Images/Main%20part%20of%20pcb%20wiring%20front%20layer.png)
+
+*Main section wiring on the front copper layer.*
+
+![Main part of PCB wiring back layer](Images/Main%20part%20of%20pcb%20wiring%20back%20layer.png)
+
+*Main section wiring on the back copper layer.*
