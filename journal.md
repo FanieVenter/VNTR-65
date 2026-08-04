@@ -35,3 +35,6 @@ I have refined the journal and the project setup to be more complient/in line wi
 ## Jul 17
 ### 10:00 - 16:00
 I sent the project in for review and edited the readme a bit to look better. I also reduced cost of pcb down to 235 usd total including pcba.
+## Aug 4
+### 19:00 - 20:00
+I updated the pcb so that it is only 2 layers and standardized all the smd components to 0603 which reduces the pcb cost down to 186 usd and the overall project cost to 277 usd. I updated the BOM with the new pricing including swapping to Gateron White KS20 hall effect switches and adding the ec11 rotary encoder and sliding potentiometer. I also added wiring images of the pcb to the readme and the gallery.
