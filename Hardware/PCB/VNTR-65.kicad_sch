@@ -11827,6 +11827,7 @@
 		(pin "2"
 			(uuid "204dcd45-78bc-4698-88d9-7e49acefdff2")
 		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric")
 		(instances
 			(project "VNTR-65"
 				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
@@ -12660,7 +12661,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SM03B-SRSS-TB"
+		(property "Value" "A1002WR-S-3P"
 			(at 323.85 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12682,6 +12683,7 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C239521")
 		(property "Datasheet" ""
 			(at 321.31 148.59 0)
 			(hide yes)
@@ -13106,6 +13108,7 @@
 		(pin "2"
 			(uuid "ab28cb7d-96ec-4da9-aaa8-67261377ba87")
 		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric")
 		(instances
 			(project "VNTR-65"
 				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
@@ -15978,6 +15981,7 @@
 		(pin "8"
 			(uuid "b6f5c6b6-fe14-4068-bb60-f891b2cfc951")
 		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
 		(instances
 			(project "VNTR-65"
 				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
