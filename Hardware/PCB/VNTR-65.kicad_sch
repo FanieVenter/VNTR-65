@@ -5927,6 +5927,12 @@
 		(uuid "5b9edbb1-d6b7-475b-8f45-063a0d943ce1")
 	)
 	(junction
+		(at 295.91 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d84b5eb-a767-46cc-8791-8e67a6993825")
+	)
+	(junction
 		(at 306.07 3.81)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5991,12 +5997,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "808f2c2f-bcde-49aa-acba-9dbddd6f6694")
-	)
-	(junction
-		(at 295.91 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "82e9584c-3f45-4815-a804-8ecbb183c951")
 	)
 	(junction
 		(at 68.58 167.005)
@@ -7500,6 +7500,16 @@
 	)
 	(wire
 		(pts
+			(xy 309.88 110.49) (xy 295.91 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cec4178-0f96-4997-95c9-421d5cf9cfd3")
+	)
+	(wire
+		(pts
 			(xy 271.78 3.81) (xy 260.35 3.81)
 		)
 		(stroke
@@ -7990,7 +8000,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 132.08) (xy 295.91 109.22)
+			(xy 309.88 110.49) (xy 309.88 109.22)
 		)
 		(stroke
 			(width 0)
@@ -8207,16 +8217,6 @@
 			(type default)
 		)
 		(uuid "c222a624-ea48-483c-a50e-27c3645adc62")
-	)
-	(wire
-		(pts
-			(xy 220.98 109.22) (xy 295.91 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c24c2512-c1f5-4ea6-8945-96a19e0639d5")
 	)
 	(wire
 		(pts
@@ -8770,6 +8770,16 @@
 	)
 	(wire
 		(pts
+			(xy 295.91 110.49) (xy 295.91 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f635b900-74ff-40df-aeef-878e7bd85313")
+	)
+	(wire
+		(pts
 			(xy 220.98 162.56) (xy 236.22 162.56)
 		)
 		(stroke
@@ -8817,6 +8827,16 @@
 			(type default)
 		)
 		(uuid "fd18aa4f-0a0b-4ea6-a64f-c66695395a73")
+	)
+	(wire
+		(pts
+			(xy 220.98 109.22) (xy 309.88 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdb1f767-f9f4-43f4-b53f-210f55944a94")
 	)
 	(wire
 		(pts
@@ -9109,7 +9129,7 @@
 		(uuid "513f1c2e-d604-4d56-bf20-5eec0802d5e1")
 	)
 	(label "GPIO26"
-		(at 236.22 109.22 180)
+		(at 250.19 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11789,9 +11809,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RP2350_80QFN_minimal:C_0402_1005Metric_small_pads"
-			(at 94.9452 43.18 0)
-			(hide yes)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11827,7 +11846,6 @@
 		(pin "2"
 			(uuid "204dcd45-78bc-4698-88d9-7e49acefdff2")
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric")
 		(instances
 			(project "VNTR-65"
 				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
@@ -12683,7 +12701,6 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C239521")
 		(property "Datasheet" ""
 			(at 321.31 148.59 0)
 			(hide yes)
@@ -12697,6 +12714,16 @@
 		)
 		(property "Description" ""
 			(at 321.31 148.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C239521"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13070,9 +13097,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RP2350_80QFN_minimal:C_0402_1005Metric_small_pads"
-			(at 106.3752 43.18 0)
-			(hide yes)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13108,7 +13134,6 @@
 		(pin "2"
 			(uuid "ab28cb7d-96ec-4da9-aaa8-67261377ba87")
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric")
 		(instances
 			(project "VNTR-65"
 				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
@@ -15925,9 +15950,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
-			(at 53.34 59.055 0)
-			(hide yes)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15981,7 +16005,6 @@
 		(pin "8"
 			(uuid "b6f5c6b6-fe14-4068-bb60-f891b2cfc951")
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
 		(instances
 			(project "VNTR-65"
 				(path "/9381cecd-296d-4002-be35-b038a1e96b55"
